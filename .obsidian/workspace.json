@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "a5d6339df82bd306",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d820db40e01b58e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026d4c688868f256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a6711988a978b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0760cd938970d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c335e94c7e1e17a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a902b4db93c6de0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c99729eb1b68b3e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "e856044712e18220",
+    "type": "split",
+    "children": [
+      {
+        "id": "c92a6349573f3c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52b58144c0f2567c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Geometry_Lattice/Tetrahedral Collision and Contact Dynamics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "baaa3c8371c1b651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Geometry_Lattice/Tetrahedral Collision and Contact Dynamics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0500e15c8d9dc2b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ec837326a25eae8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "de3bcf949ea3e1a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Geometry_Lattice/Tetrahedral Collision and Contact Dynamics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "026d4c688868f256",
+  "lastOpenFiles": [
+    "00_MOC/MOC-Emergence-Core.md",
+    "README.md",
+    "README",
+    "02_Geometry_Lattice/Emergent-Berry-Gauge-Lagrangian.md",
+    "00_MOC/Canonical-Sequence-Architecture.md",
+    "99_Templates/Note-Template.md",
+    "04_Emergent_Physics/Kinetic-Stability-and-Dispersion.md",
+    "04_Emergent_Physics/Pre-Friedmann-Cosmological-Closure.md",
+    "03_Thermodynamics_Noether/Radiative-Phase-Leak-and-Dissipation.md",
+    "04_Emergent_Physics/Topological-Knot-Soliton-Emergence.md",
+    "04_Emergent_Physics/Time-as-Residual-Rearrangement-Debt.md",
+    "04_Emergent_Physics/Saturation-Singularity-Avoidance.md",
+    "04_Emergent_Physics/Radial-Monopole-Symmetry.md",
+    "04_Emergent_Physics/Noise-Quenching-Homeostasis.md",
+    "04_Emergent_Physics/Metric-Tensor-Emergence.md",
+    "04_Emergent_Physics/Effective-G-Coupling.md",
+    "04_Emergent_Physics/Domain-Repeated-Inflation.md",
+    "04_Emergent_Physics/Macro-Network-Action-Optimization.md",
+    "01_Foundations/Stationary-Extended-Action.md",
+    "01_Foundations/Statistical-Void-Limit.md",
+    "01_Foundations/Non-Constraint-Foundation.md",
+    "05_Literature_Grounding/Paper-2309.12847v1.md",
+    "04_Emergent_Physics/Pre-Friedmann-Cosmological-Closur.md",
+    "04_Emergent_Physics/Macro-Network-Action-Optimization.md",
+    "04_Emergent_Physics/Asymptotic-Tangential-MOND.md",
+    "03_Thermodynamics_Noether/Hysteresis-Cost-TimeDelay.md",
+    "05_Literature_Grounding/Topological-Knot-Soliton-Emergence.md",
+    "99_Templates",
+    "05_Literature_Grounding",
+    "02_Geometry_Lattice",
+    "03_Thermodynamics_Noether",
+    "04_Emergent_Physics",
+    "01_Foundations",
+    "00_MOC"
+  ]
+}
