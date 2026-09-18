@@ -46,13 +46,13 @@ Causality and Lorentz-like invariance are therefore not fundamental axiomatic po
 
 ## 4. Cross-Links & Causal Hierarchy
 
-* **پیش‌نیاز هندسی (Precursor):**
+* **Geometric Precursor:**
   * [[Pentagonal-Frustration-BerryPhase]]
-* **پیوند دینامیکی و ترمودینامیکی:**
+* **Dynamical & Thermodynamic Couplings:**
   * [[Statistical-Noether-Invariance]]
   * [[Bandgap-Phase-Recycling]]
-* **مشتقات مستقیم و پیامدهای فیزیکی (Consequences):**
-  * [[Topological-Knot-Soliton-Emergence]] — چگالش فاز راکتیو تأخیری به گره‌های سالیتونی با جرم سکون
-  * [[Time-as-Residual-Rearrangement-Debt]] — ظهور مؤلفه زمان به عنوان انباشت بدهی بازآرایی فاز
-  * [[Effective-G-Coupling]] — تضعیف جاذبه‌ای برآمده از تأخیر بسته‌شدن فاز
+* **Direct Physical Consequences & Derivatives:**
+  * [[Topological-Knot-Soliton-Emergence]] — Condensation of delayed reactive phase into rest-mass topological soliton knots
+  * [[Time-as-Residual-Rearrangement-Debt]] — Emergence of the temporal metric coordinate via accumulated phase-rearrangement debt
+  * [[Effective-G-Coupling]] — Gravitational coupling attenuation induced by finite phase-closure latency
 ---
