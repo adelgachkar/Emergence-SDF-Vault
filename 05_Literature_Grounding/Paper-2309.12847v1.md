@@ -3,7 +3,7 @@ id: Paper-2309.12847v1
 paper_id: "2309.12847v1"
 tags: [Literature/Grounding]
 created: 2026-09-17
-status: canonical
+status: active
 license: CC-BY-4.0
 zenodo_section: Literature-Grounding
 title: "Paper-2309.12847v1"
@@ -26,3 +26,7 @@ This literature grounding note indexes the foundational formulation of discrete 
 ## 3. Reference Notes
 
 The document identifier `arXiv:2309.12847v1` is indexed for internal bibliographic and structural integrity.
+
+## 4. Source-Verification Caveat (2026-09-20)
+
+External verification shows arXiv:2309.12847 is a paper on **radiative transfer of electromagnetic angular momentum** (optics), **not** discrete gauge-connection dynamics. The earlier claim that it "validates boundary defect quantization" is therefore **unsupported** and has been withdrawn from [[Pentagonal-Frustration-BerryPhase]] and [[Pentagonal-Frustration-Numerical-Coupling]]. The genuine anchors for that role are [[Paper-Optical-Metric-Topological-Photonics]] (Harper–Hofstadter, topological photonics) and [[Paper-Bound-States-in-Continuum-Dark-Modes]]. This note is retained for bibliographic integrity only; it no longer grounds any SDF claim.

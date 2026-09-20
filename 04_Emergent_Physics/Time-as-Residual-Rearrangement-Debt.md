@@ -32,6 +32,14 @@ $$c_{\text{eff}}(x) = \frac{\ell^*}{\tau_d(x)}$$
 
 Where $\ell^*$ is the characteristic void lattice spacing.
 
+### Microscopic Origin of $\tau_d$ (derived)
+$\tau_d$ is no longer an independent postulate: coupling-mode analysis of the void-cavity network ([[Optical-Stepping-Synthetic-Gauge]]) gives the reactive hop clock
+
+$$\tau_d = \frac{\pi}{2\kappa}, \qquad \frac{\kappa}{\omega_0} \approx 0.025\,g^2 \;\Rightarrow\; \tau_d \approx 40.8\,T_0$$
+
+and the kinematic identity above becomes the band-averaged tight-binding velocity, $c_{\text{eff}} = 2\kappa\ell^*/\pi \approx 0.12\,c$ — automatic, not assumed. The rearrangement count of debt cycles ([[Phase-Debt-Oscillator]]) provides the calendar: one cycle per $N_c = \pi/\delta\theta \approx 24.47$ hops.
+
 ### Upstream / Downstream Links
 * Upstream: [[Hysteresis-Cost-TimeDelay]], [[Pentagonal-Frustration-BerryPhase]]
 * Downstream: [[Metric-Tensor-Emergence]], [[Asymptotic-Tangential-MOND]], [[Topological-Knot-Soliton-Emergence]]
+* Microscopic derivation: [[Optical-Stepping-Synthetic-Gauge]]; cycle calendar: [[Phase-Debt-Oscillator]]; law-retuning context: [[Phase-Retuning-Piecewise-Laws]]

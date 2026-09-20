@@ -32,6 +32,7 @@ VFB --> MTU[Minimal-Tetrahedral-Unit]
 MTU --> PFB[Pentagonal-Frustration-BerryPhase]
 PFB --> DGC[Discrete-Gauge-Connection]
 DGC --> EBL[Emergent-Berry-Gauge-Lagrangian]
+PRL[Phase-Retuning-Piecewise-Laws]
 end
 
 subgraph Tier2 [Tier II: Thermodynamics, Dissipation & Coupling]
@@ -43,6 +44,7 @@ PFN[Pentagonal-Frustration-Numerical-Coupling]
 BPR[Bandgap-Phase-Recycling]
 RPL[Radiative-Phase-Leak-and-Dissipation]
 DRI[Domain-Repeated-Inflation]
+VNR[Vacuum-Noise-Register-and-Ratchet]
 end
 
 subgraph Tier3 [Tier III: Emergent Physics & Macroscopic Closure]
@@ -57,6 +59,8 @@ TKS[Topological-Knot-Soliton-Emergence]
 SSA[Saturation-Singularity-Avoidance]
 RMS[Radial-Monopole-Symmetry]
 NQH[Noise-Quenching-Homeostasis]
+OSS[Optical-Stepping-Synthetic-Gauge]
+PDO[Phase-Debt-Oscillator]
 end
 
 Tier1 --> Tier2
@@ -64,4 +68,8 @@ Tier2 --> Tier3
 
 TRD -.->|Residual-history stabilization| MTE
 RPL -.->|Dissipative irreversibility| TRD
+OSS -.->|Microscopic origin of tau_d| TRD
+OSS -.->|Synthetic gauge flux| BPR
+VNR -.->|Trigger, never motor| PDO
+PDO -.->|Cycle calendar| TRD
 ```

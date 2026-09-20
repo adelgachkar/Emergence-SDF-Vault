@@ -22,4 +22,7 @@ $$\gamma_B = \oint_{\mathcal{C}_5} \mathbf{A}_{\text{discrete}} \cdot d\mathbf{l
 
 Through the [[Discrete-Gauge-Connection]], the geometric deficit is converted into an effective connection 1-form. The frustrated loop functions as a topological phase accumulator, as detailed in [[Pentagonal-Frustration-Numerical-Coupling]].
 
-The macroscopic stabilization of this topological singularity aligns with discrete gauge formulations embedded via `2309.12847v1.pdf` [[Paper-2309.12847v1]], ensuring robust coarse-graining into the continuum action.
+The macroscopic stabilization of this topological singularity is grounded in established synthetic-gauge and optical-metric theory ([[Paper-Optical-Metric-Topological-Photonics]]: Harper–Hofstadter flux, lowest-band Chern number $C=1$, Gordon metric), ensuring robust coarse-graining into the continuum action.
+
+- One-way (chiral) continuation: [[Bandgap-Phase-Recycling]], [[Optical-Stepping-Synthetic-Gauge]].
+- The earlier anchoring to arXiv:2309.12847 has been withdrawn — that source addresses electromagnetic angular-momentum transfer and does not support discrete gauge-connection dynamics (see verification note in [[Paper-2309.12847v1]]).

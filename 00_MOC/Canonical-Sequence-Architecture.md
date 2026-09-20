@@ -29,6 +29,7 @@ license: CC-BY-4.0
 - [[Pentagonal-Frustration-BerryPhase]]
 - [[Discrete-Gauge-Connection]]
 - [[Emergent-Berry-Gauge-Lagrangian]]
+- [[Phase-Retuning-Piecewise-Laws]]
 
 ## Tier II — Thermodynamics & Noether Coupling
 - [[Statistical-Noether-Invariance]]
@@ -37,6 +38,7 @@ license: CC-BY-4.0
 - [[Bandgap-Phase-Recycling]]
 - [[Radiative-Phase-Leak-and-Dissipation]]
 - [[Domain-Repeated-Inflation]]
+- [[Vacuum-Noise-Register-and-Ratchet]]
 
 ## Tier III — Macroscopic Emergence
 - [[Kinetic-Stability-and-Dispersion]]
@@ -49,6 +51,8 @@ license: CC-BY-4.0
 - [[Saturation-Singularity-Avoidance]]
 - [[Time-as-Residual-Rearrangement-Debt]]
 - [[Topological-Knot-Soliton-Emergence]]
+- [[Optical-Stepping-Synthetic-Gauge]]
+- [[Phase-Debt-Oscillator]]
 
 ---
 
@@ -86,6 +90,9 @@ TRRD --> ATM[Asymptotic-Tangential-MOND]
 ATM --> RMS[Radial-Monopole-Symmetry]
 EGC --> SSA[Saturation-Singularity-Avoidance]
 TKSE --> SSA
+BPR --> OSS[Optical-Stepping-Synthetic-Gauge]
+OSS --> PDO[Phase-Debt-Oscillator]
+OSS -.->|tau_d = pi/2kappa| TRRD
 end
 
 classDef highlight fill:#f96,stroke:#333,stroke-width:2px;
