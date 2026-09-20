@@ -9,6 +9,8 @@ tags:
   - variational-principles
   - action-minimization
 status: active
+license: CC-BY-4.0
+zenodo_section: Emergent-Physics
 ---
 
 # Macro-Network-Action-Optimization

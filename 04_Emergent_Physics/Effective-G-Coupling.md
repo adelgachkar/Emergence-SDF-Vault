@@ -5,6 +5,10 @@ tags:
   - physics/gravity
   - coupling-constant
   - emergent-gravity
+created: 2026-09-18
+license: CC-BY-4.0
+zenodo_section: Emergent-Physics
+status: active
 ---
 
 # Effective G Coupling

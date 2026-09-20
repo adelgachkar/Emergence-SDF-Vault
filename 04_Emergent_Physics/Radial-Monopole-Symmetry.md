@@ -4,8 +4,10 @@ aliases: [Radial-Monopole-Symmetry, Inverse-Square Emergence]
 tags:
   - sdf/emergence
   - gravity/radial-forces
-zenodo_section: Emergent_Physics
+zenodo_section: Emergent-Physics
 status: stub-restored
+created: 2026-09-18
+license: CC-BY-4.0
 ---
 
 # Radial Monopole Symmetry

@@ -10,7 +10,7 @@ tags:
   - thermodynamics/hysteresis
   - causality/speed-of-light
   - reactive-energy
-zenodo_section: Foundations
+zenodo_section: Thermodynamics
 status: canonical-reviewed
 license: CC-BY-4.0
 ---

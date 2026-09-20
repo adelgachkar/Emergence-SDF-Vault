@@ -8,6 +8,8 @@ tags:
   - sdf/topology
 status: active
 license: CC-BY-4.0
+created: 2026-09-18
+zenodo_section: Literature-Grounding
 ---
 
 # Literature Grounding: Hayami (2026) — Distortion Effects on Field-Induced Bimeron Crystals

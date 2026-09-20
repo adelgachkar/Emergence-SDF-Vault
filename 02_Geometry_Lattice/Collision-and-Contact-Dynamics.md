@@ -6,6 +6,8 @@ tags:
   - sdf/lattice
   - sdf/collision
 status: canonical-reviewed
+license: CC-BY-4.0
+zenodo_section: Lattice-Geometry
 ---
 
 # Collision and Contact Dynamics

@@ -8,7 +8,7 @@ tags:
   - sdf/tier3
   - cosmology/mond
   - gravity/asymptotics
-zenodo_section: Emergent Physics
+zenodo_section: Emergent-Physics
 status: canonical-reviewed
 license: CC-BY-4.0
 ---

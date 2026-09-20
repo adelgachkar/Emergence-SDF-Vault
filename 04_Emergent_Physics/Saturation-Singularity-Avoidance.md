@@ -4,8 +4,10 @@ aliases: [Saturation-Singularity-Avoidance, Void Saturation Cap]
 tags:
   - sdf/emergence
   - cosmology/singularities
-zenodo_section: Emergent_Physics
+zenodo_section: Emergent-Physics
 status: stub-restored
+created: 2026-09-18
+license: CC-BY-4.0
 ---
 
 # Saturation & Singularity Avoidance

@@ -5,6 +5,8 @@ tags:
   - sdf/geometry
   - sdf/lattice
 status: canonical
+license: CC-BY-4.0
+zenodo_section: Lattice-Geometry
 ---
 
 # Minimal Tetrahedral Unit (MTU)

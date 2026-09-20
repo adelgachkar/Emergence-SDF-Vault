@@ -10,6 +10,7 @@ tags:
 created: 2026-03-29
 license: CC-BY-4.0
 status: canonical-reviewed
+zenodo_section: Emergent-Physics
 ---
 
 # Pre-Friedmann Cosmological Closure

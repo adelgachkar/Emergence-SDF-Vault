@@ -6,6 +6,9 @@ tags:
   - energy-conservation
   - reactive-modes
 zenodo_section: Lattice-Geometry
+created: 2026-09-18
+license: CC-BY-4.0
+status: active
 ---
 
 # Bandgap Phase Recycling and Dark Modes

@@ -13,6 +13,7 @@ tags:
 zenodo_section: Emergent-Physics
 status: canonical
 license: CC-BY-4.0
+created: 2026-09-18
 ---
 
 # Emergence of the Classical Metric Tensor via Tetrad Impedance

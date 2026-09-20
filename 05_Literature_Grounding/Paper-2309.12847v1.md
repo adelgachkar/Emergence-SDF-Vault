@@ -4,6 +4,9 @@ paper_id: "2309.12847v1"
 tags: [Literature/Grounding]
 created: 2026-09-17
 status: canonical
+license: CC-BY-4.0
+zenodo_section: Literature-Grounding
+title: "Paper-2309.12847v1"
 ---
 
 # Paper Grounding: 2309.12847v1

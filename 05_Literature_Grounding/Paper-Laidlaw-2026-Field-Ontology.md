@@ -11,6 +11,7 @@ tags:
 zenodo_section: Literature-Grounding
 status: draft
 license: CC-BY-4.0
+created: 2026-09-18
 ---
 
 # Analysis of Laidlaw (2026): Bell Correlations in Local Realist Field Ontologies

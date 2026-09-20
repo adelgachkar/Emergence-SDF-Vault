@@ -6,13 +6,18 @@ tags:
   - geometry/packing
   - minimum-scale
 zenodo_section: Foundations
+created: 2026-09-18
+license: CC-BY-4.0
+status: active
 ---
 
 # Statistical Void Limit and Spatial Exclusion
 
 ## 1. The Minimum Geometric Volume
 In a discrete tetrahedral foam, four adjacent spherical wavefronts or void interfaces delineate an irreducible spatial exclusion volume:
-$$V_{\text{void}} = \frac{8\sqrt{2}}{3} r_0^3 - \frac{4}{3}\pi r_0^3 \approx 0.414 \, r_0^3$$
+$$V_{\text{void}} = \frac{4}{3}\pi r_0^3 - \frac{8\sqrt{2}}{3} r_0^3 \approx 0.4176 \, r_0^3$$
+
+(i.e., the interstitial void left between four mutually tangent spheres of radius $r_0$ arranged at the vertices of a regular tetrahedron.)
 
 Where $r_0$ is the characteristic near-field interaction radius.
 

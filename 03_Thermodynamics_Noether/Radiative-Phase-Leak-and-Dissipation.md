@@ -10,6 +10,8 @@ tags:
   - dissipation
   - boundary-dynamics
 status: active
+license: CC-BY-4.0
+zenodo_section: Thermodynamics
 ---
 
 # Radiative-Phase-Leak-and-Dissipation

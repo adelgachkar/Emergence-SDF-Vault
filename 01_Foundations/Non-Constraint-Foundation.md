@@ -6,6 +6,9 @@ tags:
   - non-constraint
   - emergence/first-principles
 zenodo_section: Foundations
+created: 2026-09-18
+license: CC-BY-4.0
+status: active
 ---
 
 # Non-Constraint Foundation (Bonyad-e-La-Gheyd)

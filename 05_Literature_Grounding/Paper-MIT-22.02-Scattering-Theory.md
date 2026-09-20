@@ -8,6 +8,8 @@ tags:
   - sdf/lattice-stability
 status: active
 license: CC-BY-4.0
+created: 2026-09-18
+zenodo_section: Literature-Grounding
 ---
 
 # Literature Grounding: MIT 22.02 — Coherent Neutron Scattering & Lattice Correlation

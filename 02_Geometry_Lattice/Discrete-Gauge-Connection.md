@@ -4,6 +4,10 @@ aliases: [Discrete Gauge Theory, Wilson Link, Lattice Connection]
 tags:
   - geometry/gauge-theory
   - lattice-transport
+created: 2026-09-18
+license: CC-BY-4.0
+zenodo_section: Lattice-Geometry
+status: active
 ---
 
 # Discrete Gauge Connection

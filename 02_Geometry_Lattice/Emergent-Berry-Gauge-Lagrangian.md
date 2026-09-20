@@ -12,7 +12,7 @@ tags:
   - sdf/berry-phase
   - geometry/gauge-theory
   - lagrangian
-zenodo_section: Foundations
+zenodo_section: Lattice-Geometry
 status: canonical-reviewed
 license: CC-BY-4.0
 ---

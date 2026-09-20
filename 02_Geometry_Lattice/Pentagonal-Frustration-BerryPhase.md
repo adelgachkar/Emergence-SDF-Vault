@@ -6,6 +6,8 @@ tags:
   - sdf/topology
   - sdf/berry-phase
 status: canonical
+license: CC-BY-4.0
+zenodo_section: Lattice-Geometry
 ---
 
 # Pentagonal Frustration and Induced Berry Phase

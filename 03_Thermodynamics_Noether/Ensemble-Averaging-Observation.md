@@ -6,6 +6,9 @@ tags:
   - coarse-graining
   - scale-transition
 zenodo_section: Thermodynamics
+created: 2026-09-18
+license: CC-BY-4.0
+status: active
 ---
 
 # Ensemble Averaging and the Observer Filter

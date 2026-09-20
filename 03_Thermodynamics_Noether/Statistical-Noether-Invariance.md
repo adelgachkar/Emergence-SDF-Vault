@@ -5,6 +5,10 @@ tags:
   - thermodynamics/noether
   - ensemble-theory
   - emergent-laws
+created: 2026-09-18
+license: CC-BY-4.0
+zenodo_section: Thermodynamics
+status: active
 ---
 
 # Statistical Noether Invariance

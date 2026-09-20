@@ -12,6 +12,7 @@ tags:
   - open-science
 status: canonical-reviewed
 license: CC-BY-4.0
+zenodo_section: Foundations
 ---
 
 # Emergence-SDF-Vault (v30 / Production-Ready)

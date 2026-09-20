@@ -9,6 +9,8 @@ tags:
   - inflation
   - lattice-expansion
 status: active
+license: CC-BY-4.0
+zenodo_section: Emergent-Physics
 ---
 
 # Domain-Repeated-Inflation
