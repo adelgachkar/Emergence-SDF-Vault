@@ -5,7 +5,7 @@ tags:
   - sdf/geometry
   - sdf/lattice
 status: canonical
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Lattice-Geometry
 ---
 

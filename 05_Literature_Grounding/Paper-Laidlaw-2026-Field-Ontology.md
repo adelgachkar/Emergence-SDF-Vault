@@ -10,7 +10,7 @@ tags:
   - field-ontology
 zenodo_section: Literature-Grounding
 status: draft
-license: CC-BY-4.0
+license: "MIT"
 created: 2026-09-18
 ---
 

@@ -4,7 +4,7 @@ paper_id: "2309.12847v1"
 tags: [Literature/Grounding]
 created: 2026-09-17
 status: active
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Literature-Grounding
 title: "Paper-2309.12847v1"
 ---

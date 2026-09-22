@@ -13,7 +13,7 @@ tags:
 zenodo_section: Foundations
 status: canonical-reviewed
 version: 30.1
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # MOC: Emergence-Core

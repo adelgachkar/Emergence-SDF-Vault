@@ -11,7 +11,7 @@ tags:
   - acoustics
 status: active
 zenodo_section: Emergent-Physics
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Kinetic-Stability-and-Dispersion

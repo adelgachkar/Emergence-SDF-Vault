@@ -7,7 +7,7 @@ tags:
   - physics/frustration
   - sdf/topology
 status: active
-license: CC-BY-4.0
+license: "MIT"
 created: 2026-09-18
 zenodo_section: Literature-Grounding
 ---

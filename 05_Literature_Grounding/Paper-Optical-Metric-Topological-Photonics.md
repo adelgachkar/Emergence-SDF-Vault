@@ -11,7 +11,7 @@ tags:
   - coupled-resonators
 zenodo_section: "Literature-Grounding"
 status: "active"
-license: "CC-BY-4.0"
+license: "MIT"
 ---
 
 # Paper Grounding: Optical Metric, Synthetic Gauge and Stepping Photonics

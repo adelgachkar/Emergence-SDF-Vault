@@ -12,7 +12,7 @@ tags:
   - coupled-resonators
 zenodo_section: "Emergent-Physics"
 status: "canonical"
-license: "CC-BY-4.0"
+license: "MIT"
 ---
 
 # Optical-Stepping-Synthetic-Gauge

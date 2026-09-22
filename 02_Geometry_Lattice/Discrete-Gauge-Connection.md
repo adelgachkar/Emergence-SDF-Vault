@@ -5,7 +5,7 @@ tags:
   - geometry/gauge-theory
   - lattice-transport
 created: 2026-09-18
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Lattice-Geometry
 status: active
 ---

@@ -13,7 +13,7 @@ tags:
   - gauge-emergence
 zenodo_section: Emergent-Physics
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Topological-Knot-Soliton-Emergence

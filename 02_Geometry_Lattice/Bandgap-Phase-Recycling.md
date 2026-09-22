@@ -7,7 +7,7 @@ tags:
   - reactive-modes
 zenodo_section: Lattice-Geometry
 created: 2026-09-18
-license: CC-BY-4.0
+license: "MIT"
 status: active
 ---
 

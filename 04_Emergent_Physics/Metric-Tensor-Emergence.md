@@ -12,7 +12,7 @@ tags:
   - impedance-network
 zenodo_section: Emergent-Physics
 status: canonical
-license: CC-BY-4.0
+license: "MIT"
 created: 2026-09-18
 ---
 

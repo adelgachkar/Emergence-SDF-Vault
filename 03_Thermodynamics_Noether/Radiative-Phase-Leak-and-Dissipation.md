@@ -10,7 +10,7 @@ tags:
   - dissipation
   - boundary-dynamics
 status: active
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Thermodynamics
 ---
 

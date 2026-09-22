@@ -3,7 +3,7 @@ id: Pentagonal-Frustration-Numerical-Coupling
 tags: [SDF/Geometry, SDF/Numerical]
 created: 2026-09-17
 status: canonical
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Lattice-Geometry
 title: "Pentagonal-Frustration-Numerical-Coupling"
 ---

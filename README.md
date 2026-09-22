@@ -11,7 +11,7 @@ tags:
   - variational-closure
   - open-science
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Foundations
 ---
 

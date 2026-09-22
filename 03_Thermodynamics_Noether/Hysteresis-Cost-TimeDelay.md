@@ -12,7 +12,7 @@ tags:
   - reactive-energy
 zenodo_section: Thermodynamics
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Substrate Hysteresis Cost and Causal Time-Delay Bound

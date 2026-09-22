@@ -6,7 +6,7 @@ tags:
   - sdf/lattice
   - sdf/collision
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Lattice-Geometry
 ---
 

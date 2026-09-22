@@ -7,7 +7,7 @@ tags:
   - minimum-scale
 zenodo_section: Foundations
 created: 2026-09-18
-license: CC-BY-4.0
+license: "MIT"
 status: active
 ---
 

@@ -12,7 +12,7 @@ tags:
   - threshold-dynamics
 zenodo_section: "Emergent-Physics"
 status: "canonical"
-license: "CC-BY-4.0"
+license: "MIT"
 ---
 
 # Phase-Debt-Oscillator

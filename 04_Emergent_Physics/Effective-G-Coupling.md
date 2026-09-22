@@ -6,7 +6,7 @@ tags:
   - coupling-constant
   - emergent-gravity
 created: 2026-09-18
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Emergent-Physics
 status: active
 ---

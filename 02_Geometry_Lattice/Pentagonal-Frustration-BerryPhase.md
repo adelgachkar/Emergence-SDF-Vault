@@ -6,7 +6,7 @@ tags:
   - sdf/topology
   - sdf/berry-phase
 status: canonical
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Lattice-Geometry
 ---
 

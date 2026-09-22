@@ -10,7 +10,7 @@ tags:
   - variational-closure
 zenodo_section: Foundations
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Canonical Sequence Architecture

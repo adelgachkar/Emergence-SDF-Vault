@@ -8,7 +8,7 @@ tags:
   - sdf/template
 zenodo_section: Templates
 status: canonical
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # <Note Title>
@@ -33,7 +33,7 @@ tags:
   - "<topic-tag>"
 zenodo_section: "Foundations | Lattice-Geometry | Thermodynamics | Emergent-Physics | Literature-Grounding | Templates"
 status: "draft | active | canonical | canonical-reviewed | stub-restored"
-license: "CC-BY-4.0"
+license: "MIT"
 ---
 ```
 

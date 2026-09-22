@@ -14,7 +14,7 @@ tags:
   - lagrangian
 zenodo_section: Lattice-Geometry
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Emergent-Berry-Gauge-Lagrangian

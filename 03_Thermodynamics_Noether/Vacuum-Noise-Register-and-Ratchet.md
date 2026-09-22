@@ -12,7 +12,7 @@ tags:
   - second-law
 zenodo_section: "Thermodynamics"
 status: "canonical"
-license: "CC-BY-4.0"
+license: "MIT"
 ---
 
 # Vacuum-Noise-Register-and-Ratchet

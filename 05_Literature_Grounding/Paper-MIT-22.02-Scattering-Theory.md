@@ -7,7 +7,7 @@ tags:
   - physics/dynamic-structure-factor
   - sdf/lattice-stability
 status: active
-license: CC-BY-4.0
+license: "MIT"
 created: 2026-09-18
 zenodo_section: Literature-Grounding
 ---

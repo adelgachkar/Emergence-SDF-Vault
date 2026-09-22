@@ -9,7 +9,7 @@ tags:
   - sdf/tier2
   - radiative-leakage
 status: active
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Literature-Grounding
 ---
 

@@ -10,7 +10,7 @@ tags:
   - gravity/asymptotics
 zenodo_section: Emergent-Physics
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Asymptotic Tangential MOND Transition

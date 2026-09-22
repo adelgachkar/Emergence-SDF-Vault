@@ -9,7 +9,7 @@ tags:
   - inflation
   - lattice-expansion
 status: active
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Emergent-Physics
 ---
 

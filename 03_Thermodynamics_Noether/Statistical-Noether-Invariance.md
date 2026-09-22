@@ -6,7 +6,7 @@ tags:
   - ensemble-theory
   - emergent-laws
 created: 2026-09-18
-license: CC-BY-4.0
+license: "MIT"
 zenodo_section: Thermodynamics
 status: active
 ---

@@ -11,7 +11,7 @@ tags:
   - lattice-thermodynamics
 zenodo_section: Emergent-Physics
 status: canonical-reviewed
-license: CC-BY-4.0
+license: "MIT"
 ---
 
 # Time as Residual Rearrangement Debt

@@ -7,7 +7,7 @@ tags:
   - non-linear-damping
 zenodo_section: Emergent-Physics
 created: 2026-09-18
-license: CC-BY-4.0
+license: "MIT"
 status: active
 ---
 

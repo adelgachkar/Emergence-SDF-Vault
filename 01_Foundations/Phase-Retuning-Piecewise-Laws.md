@@ -12,7 +12,7 @@ tags:
   - constraint-map
 zenodo_section: "Foundations"
 status: "canonical"
-license: "CC-BY-4.0"
+license: "MIT"
 ---
 
 # Phase-Retuning-Piecewise-Laws
