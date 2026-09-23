@@ -45,6 +45,14 @@ Constructs symmetry currents via coarse-grained ensemble averaging (`Statistical
 ### Tier III — Macroscopic Limits & Emergent Spacetime
 Demonstrates vortex condensation into stable topological solitons (`Topological-Knot-Soliton-Emergence`), the emergence of the stress-energy and metric tensor (`Metric-Tensor-Emergence`), non-Newtonian asymptotic behavior (`Asymptotic-Tangential-MOND`), and global stability (`Pre-Friedmann-Cosmological-Closure`).
 
+**Per-number epistemic triage — every number in this vault belongs to exactly one of three classes:**
+
+- **Closed geometry** — exact mathematics *of the model*, derivable on paper; not a measured quantity of nature: the pentagonal deficit δθ = 2π − 5·arccos(1/3) = 7.356103°; Kepler packing bound φ_max = π/√18 = 0.7405; void-limit ratio V_void; inscribed/neck radii of the tetrahedral packing; multipole-ladder exponents.
+- **Our own simulations** — reproducible in silico (`tools/`, `09_Validation_and_Simulation`); no external empirical validation exists for them: κ_hop = 0.025g²ω₀ with g = 0.8 fixed by our own Meep cavity benchmark (λ₀ = 320 nm) ⇒ f_c ≈ 30 THz, τ_d = π/2κ_hop; kinetic-stability and percolation benchmarks; synthetic-data fits.
+- **Real empirical phenomena** — measured in the real world by others: only the **Pantheon+ supernova compilation**, used as *fit input* for the boundary-shape ansätze (α = 2.1, z_c = 0.15 are fitted candidate parameters, not measured constants). The data are real; the SDF interpretation of the residuals is not established.
+
+No number in this vault is presented as a measured property of a real quantized substrate; the substrate itself is a model construct.
+
 ---
 
 ## 3. Global Variational Dependency Graph
