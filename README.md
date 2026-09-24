@@ -5,6 +5,7 @@ aliases:
   - SDF Vault Overview
   - Architecture Manifesto
 created: 2026-09-18
+updated: 2026-09-25
 tags:
   - sdf/readme
   - sdf/architecture
@@ -52,6 +53,30 @@ Demonstrates vortex condensation into stable topological solitons (`Topological-
 - **Real empirical phenomena** — measured in the real world by others: only the **Pantheon+ supernova compilation**, used as *fit input* for the boundary-shape ansätze (α = 2.1, z_c = 0.15 are fitted candidate parameters, not measured constants). The data are real; the SDF interpretation of the residuals is not established.
 
 No number in this vault is presented as a measured property of a real quantized substrate; the substrate itself is a model construct.
+
+---
+
+## 2b. Family Pointer — the Aligned Protocol [protocol-mirror]
+
+This vault is one of four family repositories that execute the same epistemic protocol:
+
+| Repository | Role in the family | Version |
+|---|---|---|
+| **Emergence-SDF-Vault** (this repo) | the discrete-geometry emergence model | v30.3.2 |
+| CADENCE-SDF | the engineering-facing axiom/CAD presentation; its fail-closed governance policy is protocol norm E2 | v3.6.1 |
+| SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.0 |
+| LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.6.0 |
+
+**The Aligned Protocol** derives six ledger norms from one generative triad — constraint (potential-maker) × silence (licensor) × event (direction-maker):
+
+- **E0 — speakability:** predicates only after registration; the pre-registration is frame-less, not false. This vault's *closed geometry* class is E0 in action.
+- **E1 — complete classification:** every number in exactly one origin class. **The per-number triage above is E1 executed at the vault level.**
+- **E2 — fail-closed:** status=verified ⟺ test executed and passed; non-execution never upgrades. CADENCE's governance policy is E2.
+- **E3 — freezing:** predictions locked before the test (quasi-pre-registration).
+- **E4 — negative data enters the ledger**, never treated as an anomaly.
+- **E5 — program-level testing:** continued work is justified only by executed tests and a scheduled decisive test.
+
+Two protocol readings already native to this vault: the triage table = E0+E1; the Pantheon+ verdict being *differential* (Δχ² against a reference fit, no absolute anchor) = reference-as-residue-of-alignment (protocol §4). Status: the vault **mirrors** the protocol and does not modify it; any "paradox solved" claim here would fall into protocol error class E1.
 
 ---
 
