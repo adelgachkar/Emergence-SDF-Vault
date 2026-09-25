@@ -62,10 +62,10 @@ This vault is one of four family repositories that execute the same epistemic pr
 
 | Repository | Role in the family | Version |
 |---|---|---|
-| **Emergence-SDF-Vault** (this repo) | the discrete-geometry emergence model | v30.3.2 |
-| CADENCE-SDF | the engineering-facing axiom/CAD presentation; its fail-closed governance policy is protocol norm E2 | v3.6.1 |
-| SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.0 |
-| LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.6.0 |
+| **Emergence-SDF-Vault** (this repo) | the discrete-geometry emergence model | v30.3.3 |
+| CADENCE-SDF | the engineering-facing axiom/CAD presentation; its fail-closed governance policy is protocol norm E2 | v3.6.2 |
+| SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.3 |
+| LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.8.0 |
 
 **The Aligned Protocol** derives six ledger norms from one generative triad — constraint (potential-maker) × silence (licensor) × event (direction-maker):
 
@@ -78,7 +78,9 @@ This vault is one of four family repositories that execute the same epistemic pr
 
 Two protocol readings already native to this vault: the triage table = E0+E1; the Pantheon+ verdict being *differential* (Δχ² against a reference fit, no absolute anchor) = reference-as-residue-of-alignment (protocol §4). Status: the vault **mirrors** the protocol and does not modify it; any "paradox solved" claim here would fall into protocol error class E1.
 
-**The sanctity clause (family contract, 2026-09-25):** boundary silence is not vacancy — it is sanctity: peeking over the boundary is forbidden (every appropriation attempt lands in E1, not an answer); every known gap inside the boundary must be **flagged** (an unflagged gap = evasive silence, an E4 violation); and **ambiguity ≠ silence** — inside the boundary, logically resolvable ambiguity is a duty (tools, distinctions, the residue test); at the pre-boundary there is no proposition to be ambiguous — there is sanctity to respect. Two-realm test: **is a tool conceivable? → ambiguity: work. Not? → silence: revere.** Executed register (7:4): LIMEN `08_Protocol/Two-Realm-Register`.
+**The sanctity clause (family contract, 2026-09-25):** boundary silence is not vacancy — it is sanctity: peeking over the boundary is forbidden (every appropriation attempt lands in E1, not an answer); every known gap inside the boundary must be **flagged** (an unflagged gap = evasive silence, an E4 violation); and **ambiguity ≠ silence** — inside the boundary, logically resolvable ambiguity is a duty (tools, distinctions, the residue test); at the pre-boundary there is no proposition to be ambiguous — there is sanctity to respect. Two-realm test: **is a tool conceivable? → ambiguity: work. Not? → silence: revere.** Executed register: LIMEN `08_Protocol/Two-Realm-Register` — bank **4 done (W1, W3, W6, W7) / 3 pending (W2, W4, W5)** + 3 framework-self flags.
+
+**§5 executed battery (pointer, 2026-09-25):** six executed tests now back the protocol's §5 in the canonical home (LIMEN `08_Protocol/Aligned-Protocol` §5, FA+EN): the residue test (R/T₀ = 0.0024 frame-made vs 0.4929 REAL, SNR 892.7), the parametric tension map (rel(d) = d/(m+d), m = 0.61722, d_class = 0.0686, d_det ≈ 0.0067), the K1 critical-edge finiteness (b_c = 0.1263 ± 0.0002 at L=256/512/1024; R_edge = 1.841 ± 0.002 after the E4 correction of the wrong 15.75 quotient), the window-resource map (d_det ~ 8.05·(S·N·w)^−0.500 — compute buys detection, never classification), the **criticality-notch price curve W3** (the b_c no-go exemption is budget-limited: crossing bracket X* ∈ [1.97e7, 2.36e7] walker-steps, 10–12× canonical, where d_det = 0.00194 ≤ d_crit = 0.002) and the **Ward-invariant shield→boost boundary W7** (geometric beta-plane boundary BETA* = +0.076, S = +0.743, D = −0.0704; mask-identical under three pre-boundary narratives [exact], decoration-invariant S/D z = 0.74/0.96, BETA* resolution-limited and flagged — the boundary belongs to the law, not to a narrative or a stream).
 
 ---
 
