@@ -78,6 +78,8 @@ This vault is one of four family repositories that execute the same epistemic pr
 
 Two protocol readings already native to this vault: the triage table = E0+E1; the Pantheon+ verdict being *differential* (Δχ² against a reference fit, no absolute anchor) = reference-as-residue-of-alignment (protocol §4). Status: the vault **mirrors** the protocol and does not modify it; any "paradox solved" claim here would fall into protocol error class E1.
 
+**The sanctity clause (family contract, 2026-09-25):** boundary silence is not vacancy — it is sanctity: peeking over the boundary is forbidden (every appropriation attempt lands in E1, not an answer); every known gap inside the boundary must be **flagged** (an unflagged gap = evasive silence, an E4 violation); and **ambiguity ≠ silence** — inside the boundary, logically resolvable ambiguity is a duty (tools, distinctions, the residue test); at the pre-boundary there is no proposition to be ambiguous — there is sanctity to respect. Two-realm test: **is a tool conceivable? → ambiguity: work. Not? → silence: revere.** Executed register (7:4): LIMEN `08_Protocol/Two-Realm-Register`.
+
 ---
 
 ## 3. Global Variational Dependency Graph
