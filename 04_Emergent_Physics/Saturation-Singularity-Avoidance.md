@@ -14,6 +14,7 @@ tags:
 zenodo_section: "Emergent-Physics"
 status: "canonical"
 license: "MIT"
+lang: "en"
 ---
 
 # Saturation-Singularity-Avoidance

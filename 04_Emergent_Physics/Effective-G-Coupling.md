@@ -7,6 +7,7 @@ tags:
   - emergent-gravity
 created: 2026-09-18
 license: "MIT"
+lang: "en"
 zenodo_section: Emergent-Physics
 status: active
 ---

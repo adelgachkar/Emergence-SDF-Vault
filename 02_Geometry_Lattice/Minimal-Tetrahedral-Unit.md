@@ -6,6 +6,7 @@ tags:
   - sdf/lattice
 status: canonical
 license: "MIT"
+lang: "en"
 zenodo_section: Lattice-Geometry
 ---
 

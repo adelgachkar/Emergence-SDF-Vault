@@ -8,6 +8,7 @@ tags:
   - sdf/topology
 status: active
 license: "MIT"
+lang: "en"
 created: 2026-09-18
 zenodo_section: Literature-Grounding
 ---

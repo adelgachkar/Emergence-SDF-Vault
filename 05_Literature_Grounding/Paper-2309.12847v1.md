@@ -5,6 +5,7 @@ tags: [Literature/Grounding]
 created: 2026-09-17
 status: active
 license: "MIT"
+lang: "en"
 zenodo_section: Literature-Grounding
 title: "Paper-2309.12847v1"
 ---

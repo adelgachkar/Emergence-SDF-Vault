@@ -9,6 +9,7 @@ tags:
 zenodo_section: Templates
 status: canonical
 license: "MIT"
+lang: "en"
 ---
 
 # <Note Title>

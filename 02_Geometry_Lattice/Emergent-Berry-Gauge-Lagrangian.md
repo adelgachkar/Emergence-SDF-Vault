@@ -15,6 +15,7 @@ tags:
 zenodo_section: Lattice-Geometry
 status: canonical-reviewed
 license: "MIT"
+lang: "en"
 ---
 
 # Emergent-Berry-Gauge-Lagrangian

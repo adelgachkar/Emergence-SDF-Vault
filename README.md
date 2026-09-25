@@ -13,10 +13,13 @@ tags:
   - open-science
 status: canonical-reviewed
 license: "MIT"
+lang: "en"
 zenodo_section: Foundations
 ---
 
 # Emergence-SDF-Vault (v30 / Production-Ready)
+
+> **Language:** English (monolingual edition — every note carries frontmatter `lang: "en"`; the canonical Persian discourse of the family lives in LIMEN-VACUI `fa/`).
 
 > **Core Foundational Postulate**:
 > The historical linear causal reduction ($G \to C_{id} \to S \to R \to M \to L \to F$) is rigorously superseded by the **stationary extended action principle**:

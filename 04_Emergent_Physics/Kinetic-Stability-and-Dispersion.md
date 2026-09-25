@@ -12,6 +12,7 @@ tags:
 status: active
 zenodo_section: Emergent-Physics
 license: "MIT"
+lang: "en"
 ---
 
 # Kinetic-Stability-and-Dispersion

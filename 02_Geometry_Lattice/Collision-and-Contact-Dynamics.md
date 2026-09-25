@@ -7,6 +7,7 @@ tags:
   - sdf/collision
 status: canonical-reviewed
 license: "MIT"
+lang: "en"
 zenodo_section: Lattice-Geometry
 ---
 

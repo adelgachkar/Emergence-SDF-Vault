@@ -4,6 +4,7 @@ tags: [SDF/Geometry, SDF/Numerical]
 created: 2026-09-17
 status: canonical
 license: "MIT"
+lang: "en"
 zenodo_section: Lattice-Geometry
 title: "Pentagonal-Frustration-Numerical-Coupling"
 ---

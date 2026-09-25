@@ -11,6 +11,7 @@ tags:
 zenodo_section: Literature-Grounding
 status: draft
 license: "MIT"
+lang: "en"
 created: 2026-09-18
 ---
 

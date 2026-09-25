@@ -10,6 +10,7 @@ tags:
   - lattice-expansion
 status: active
 license: "MIT"
+lang: "en"
 zenodo_section: Emergent-Physics
 ---
 

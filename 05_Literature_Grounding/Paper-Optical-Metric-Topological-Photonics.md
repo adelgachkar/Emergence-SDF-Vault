@@ -12,6 +12,7 @@ tags:
 zenodo_section: "Literature-Grounding"
 status: "active"
 license: "MIT"
+lang: "en"
 ---
 
 # Paper Grounding: Optical Metric, Synthetic Gauge and Stepping Photonics

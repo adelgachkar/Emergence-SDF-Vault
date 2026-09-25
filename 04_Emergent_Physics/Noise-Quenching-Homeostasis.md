@@ -8,6 +8,7 @@ tags:
 zenodo_section: Emergent-Physics
 created: 2026-09-18
 license: "MIT"
+lang: "en"
 status: active
 ---
 

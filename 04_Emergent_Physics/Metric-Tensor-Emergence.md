@@ -13,6 +13,7 @@ tags:
 zenodo_section: Emergent-Physics
 status: canonical
 license: "MIT"
+lang: "en"
 created: 2026-09-18
 ---
 

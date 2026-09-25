@@ -14,6 +14,7 @@ zenodo_section: Foundations
 status: canonical-reviewed
 version: 30.1
 license: "MIT"
+lang: "en"
 ---
 
 # MOC: Emergence-Core

@@ -10,6 +10,7 @@ tags:
   - action-minimization
 status: active
 license: "MIT"
+lang: "en"
 zenodo_section: Emergent-Physics
 ---
 

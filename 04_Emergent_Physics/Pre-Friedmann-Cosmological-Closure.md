@@ -9,6 +9,7 @@ tags:
   - cosmology
 created: 2026-03-29
 license: "MIT"
+lang: "en"
 status: canonical-reviewed
 zenodo_section: Emergent-Physics
 ---

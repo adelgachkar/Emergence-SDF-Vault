@@ -10,6 +10,7 @@ tags:
   - bandgap-recycling
 status: active
 license: "MIT"
+lang: "en"
 zenodo_section: Literature-Grounding
 ---
 

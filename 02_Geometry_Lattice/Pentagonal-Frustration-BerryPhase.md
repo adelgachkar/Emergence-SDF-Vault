@@ -7,6 +7,7 @@ tags:
   - sdf/berry-phase
 status: canonical
 license: "MIT"
+lang: "en"
 zenodo_section: Lattice-Geometry
 ---
 

@@ -11,6 +11,7 @@ tags:
 zenodo_section: Foundations
 status: canonical-reviewed
 license: "MIT"
+lang: "en"
 ---
 
 # Canonical Sequence Architecture

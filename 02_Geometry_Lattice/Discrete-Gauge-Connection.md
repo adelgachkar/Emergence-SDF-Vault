@@ -6,6 +6,7 @@ tags:
   - lattice-transport
 created: 2026-09-18
 license: "MIT"
+lang: "en"
 zenodo_section: Lattice-Geometry
 status: active
 ---

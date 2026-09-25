@@ -10,6 +10,7 @@ tags:
   - temporal-emergence
 status: active
 license: "MIT"
+lang: "en"
 zenodo_section: Literature-Grounding
 ---
 

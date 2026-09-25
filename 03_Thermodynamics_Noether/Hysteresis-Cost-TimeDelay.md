@@ -13,6 +13,7 @@ tags:
 zenodo_section: Thermodynamics
 status: canonical-reviewed
 license: "MIT"
+lang: "en"
 ---
 
 # Substrate Hysteresis Cost and Causal Time-Delay Bound

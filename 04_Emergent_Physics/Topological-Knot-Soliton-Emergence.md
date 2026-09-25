@@ -14,6 +14,7 @@ tags:
 zenodo_section: Emergent-Physics
 status: canonical-reviewed
 license: "MIT"
+lang: "en"
 ---
 
 # Topological-Knot-Soliton-Emergence
