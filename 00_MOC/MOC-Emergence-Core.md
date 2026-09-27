@@ -74,3 +74,7 @@ OSS -.->|Synthetic gauge flux| BPR
 VNR -.->|Trigger, never motor| PDO
 PDO -.->|Cycle calendar| TRD
 ```
+
+## Terminology
+
+The family's emergence terminology — the rank ladder from the balance differential ΔB (rank-0 scalar) through the onset arrow (vector), substrate couplings (tensor), and declarative components to dynamics — is registered in [[Rank-Ladder-Glossary]], consolidated from the canonical reference LIMEN-VACUI `10_Reference/Emergence-Balance-Reference` (FA+EN).
