@@ -62,6 +62,27 @@ A first-principles FDTD benchmark (`tools/cavity_pair_fdtd2d.py`, 2D PEC proxy o
 
 The 2D prefactor is not the 3D Bethe constant by construction; the decisive run is the real-geometry Meep script `tools/meep_void_pair_3d.py` (dielectric-sphere voids, $r_{eq}$ window, supermode splitting). Until that run, the vault carries $g \in [0.7, 0.9]$ with the corresponding $\kappa/\omega_0 \sim 10^{-2}$ band — the mechanism's qualitative conclusions (stepping, $\tau_d \sim 10\text{–}100\,T_0$, $c_{\text{eff}} \sim 0.1c$) are insensitive to this factor-of-2.
 
+#### 2.2.2 The companion clock $f_c$ — registered unit convention (E4 re-registration, 2026-09-27)
+
+The vault's registered freezing edge "$f_c \approx 30$ THz" is **defined on the rad/s reading of $\kappa$**:
+
+$$
+f_c \;\equiv\; \frac{\kappa\,[\text{rad/s}]}{\pi} \;\ne\; \frac{\kappa\,[\text{Hz}]}{\pi}\qquad\text{(the two differ by exactly } 2\pi\text{)}
+$$
+
+Both registered values reproduce [exact] under this convention at the edge point $g = 0.8$ (the Meep cavity benchmark, $\lambda_0 = 320$ nm, $\omega_0 = 2\pi c/\lambda_0$):
+
+| Quantity | Value | Registered check |
+|---|---|---|
+| $\kappa(g=0.8)$ | $0.025 \cdot 0.64 \cdot \omega_0 = 9.42\times10^{13}$ rad/s | the registered operator |
+| $f_c = \kappa[\text{rad/s}]/\pi$ | $2.998\times10^{13}$ Hz $\approx$ **30 THz** | the registered clock ✓ |
+| $h f_c$ | **123.98 meV $\approx$ 0.124 eV** | the W5 freezing edge ✓ |
+| alternative $\kappa[\text{Hz}]/\pi$ | 4.77 THz, $h f_c = 19.7$ meV | **refuted** — reproduces nothing registered |
+
+**Exact identity (no free parameter):** $f_c\,\tau_d = \tfrac{\kappa}{\pi}\cdot\tfrac{\pi}{2\kappa} = \tfrac{1}{2}$ — the companion clock is the **half-period of the $\tau_d$ delay clock** ([[Hysteresis-Cost-TimeDelay]]): one operator, two clocks, exactly as registered by the family's W5 verdict. The ambient point closes the same chain: $\hbar\kappa(g=0.57) = 23.6$ meV $\approx k_B T(300\,$K$)$ (ℏκ/k_BT = 0.914).
+
+*Provenance (honesty registry):* the value 30 THz was always computed with the rad/s convention, but the convention itself was left unstated in the register — an ambiguity that admitted a 2π-misreading. The W5 chain (LIMEN, 2026-09-27) fixed the full decomposition; this subsection now carries the convention **explicitly** (E4-style re-registration). Nature-side status: **F3** — untouched.
+
 **Derived clock and speed** (scale-free; $\kappa \propto 1/a$ in absolute units):
 
 $$
