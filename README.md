@@ -66,12 +66,12 @@ No number in this vault is presented as a measured property of a real quantized 
 
 This vault is one of four family repositories that execute the same epistemic protocol:
 
-| Repository | Role in the family | Version |
-|---|---|---|
-| **Emergence-SDF-Vault** (this repo) | the discrete-geometry emergence model | v30.3.6 |
-| CADENCE-SDF | the engineering-facing axiom/CAD presentation; its fail-closed governance policy is protocol norm E2 | v3.6.5 |
-| SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.6 |
-| LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.10.0 |
+| Repository | Role in the family | Version | Concept DOI (always latest version) |
+|---|---|---|---|
+| **Emergence-SDF-Vault** (this repo) | the discrete-geometry emergence model | v30.3.11 | [10.5281/zenodo.22834778](https://doi.org/10.5281/zenodo.22834778) |
+| CADENCE-SDF | the engineering-facing axiom/CAD presentation; its fail-closed governance policy is protocol norm E2 | v3.6.9 | [10.5281/zenodo.23006055](https://doi.org/10.5281/zenodo.23006055) |
+| SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.10 | [10.5281/zenodo.23006052](https://doi.org/10.5281/zenodo.23006052) |
+| LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.12.3 | [10.5281/zenodo.23006050](https://doi.org/10.5281/zenodo.23006050) |
 
 **The Aligned Protocol** derives six ledger norms from one generative triad — constraint (potential-maker) × silence (licensor) × event (direction-maker):
 
