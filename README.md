@@ -17,6 +17,9 @@ lang: "en"
 zenodo_section: Foundations
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22834778.svg)](https://doi.org/10.5281/zenodo.22834778)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23006054.svg)](https://doi.org/10.5281/zenodo.23006054) · version DOI (v30.3.10); the concept DOI above always resolves to the latest version.
+
 # Emergence-SDF-Vault (v30 / Production-Ready)
 
 > **Language:** English (monolingual edition — every note carries frontmatter `lang: "en"`; the canonical Persian discourse of the family lives in LIMEN-VACUI `fa/`).
