@@ -6,8 +6,8 @@ authors:
     affiliation: "Islamic Azad University, Urmia"
     orcid: "https://orcid.org/0009-0006-7713-6004"
 title: "Emergence-SDF-Vault: The Structural Delimitation Framework — Complete Obsidian Vault"
-version: 30.3.10
-doi: 10.5281/zenodo.23006054
+version: 30.3.11
+doi: 10.5281/zenodo.23017337
 date-released: 2026-09-28
 license: "MIT"
 repository-code: "https://github.com/adelgachkar/Emergence-SDF-Vault"
