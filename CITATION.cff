@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this framework or software, please cite it as below."
+authors:
+  - family-names: "Gachkar"
+    given-names: "Adel"
+    affiliation: "Islamic Azad University, Urmia"
+title: "Emergence-SDF-Vault: The Structural Delimitation Framework — Complete Obsidian Vault"
+version: 30.3.9
+date-released: 2026-09-28
+license: "MIT"
+repository-code: "https://github.com/adelgachkar/Emergence-SDF-Vault"
+abstract: "The complete Obsidian vault of the Structural Delimitation Framework (SDF): foundations, lattice geometry (pentagonal frustration, Berry-phase gauge), thermodynamics/Noether invariance, emergent physics, observational mapping (Pantheon+ fits), validation/simulation, and the rank-ladder glossary. Every note carries uniform frontmatter (created, license, zenodo_section). The f_c = κ[rad/s]/π unit convention and the exact identity f_c·τ_d = 1/2 are registered here and carried family-wide. Model-level claims with executed numerical protocols; no empirical cosmological claim is made."
+keywords:
+  - structural delimitation framework
+  - obsidian vault
+  - pentagonal frustration
+  - Berry phase
+  - emergent physics
+  - rank ladder

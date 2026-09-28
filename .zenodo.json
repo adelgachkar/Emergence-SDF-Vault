@@ -1,0 +1,48 @@
+{
+  "title": "Emergence-SDF-Vault: The Structural Delimitation Framework \u2014 Complete Obsidian Vault (v30.3.9)",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Gachkar, Adel",
+      "affiliation": "Islamic Azad University, Urmia",
+      "orcid": ""
+    }
+  ],
+  "description": "<p>The complete Obsidian vault of the Structural Delimitation Framework (SDF): 34+ canonical notes across foundations, lattice geometry (pentagonal frustration, Berry-phase gauge), thermodynamics/Noether invariance, emergent physics (asymptotic MOND, hysteresis, radiative phase leak), observational mapping (Pantheon+ fits), validation/simulation, and the rank-ladder glossary (rank-0 through dynamics). Every note carries uniform frontmatter (created, license, zenodo_section). The f_c unit convention f_c = &kappa;[rad/s]/&pi; is registered here (Optical-Stepping-Synthetic-Gauge &sect;2.2.2, with the exact identity f_c&middot;&tau;_d = 1/2) and carried family-wide. Companion repositories: LIMEN-VACUI (protocol home), SPUMA-VACUI, CADENCE-SDF. Model-level claims with executed numerical protocols; no empirical cosmological claim is made.</p>",
+  "keywords": [
+    "structural delimitation framework",
+    "obsidian vault",
+    "pentagonal frustration",
+    "Berry phase",
+    "emergent physics",
+    "rank ladder",
+    "glossary"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/adelgachkar/Emergence-SDF-Vault",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/adelgachkar/LIMEN-VACUI",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/adelgachkar/SPUMA-VACUI",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/adelgachkar/CADENCE-SDF",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    }
+  ],
+  "communities": [],
+  "grants": []
+}
