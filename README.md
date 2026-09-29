@@ -64,7 +64,7 @@ No number in this vault is presented as a measured property of a real quantized 
 
 ## 2b. Family Pointer — the Aligned Protocol [protocol-mirror]
 
-This vault is one of four family repositories that execute the same epistemic protocol:
+This vault is one of five family repositories that execute the same epistemic protocol:
 
 | Repository | Role in the family | Version | Concept DOI (always latest version) |
 |---|---|---|---|
@@ -72,6 +72,7 @@ This vault is one of four family repositories that execute the same epistemic pr
 | CADENCE-SDF | the engineering-facing axiom/CAD presentation; its fail-closed governance policy is protocol norm E2 | v3.6.9 | [10.5281/zenodo.23006055](https://doi.org/10.5281/zenodo.23006055) |
 | SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.10 | [10.5281/zenodo.23006052](https://doi.org/10.5281/zenodo.23006052) |
 | LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.12.3 | [10.5281/zenodo.23006050](https://doi.org/10.5281/zenodo.23006050) |
+| CRG-Flux | the cross-scale flexoelectric→cosmological vault; the family's laboratory-physics bridge; source of the W8 external-feeding test | v0.1.0 | — (deposit pending) |
 
 **The Aligned Protocol** derives six ledger norms from one generative triad — constraint (potential-maker) × silence (licensor) × event (direction-maker):
 
