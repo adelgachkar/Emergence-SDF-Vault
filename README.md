@@ -64,7 +64,7 @@ No number in this vault is presented as a measured property of a real quantized 
 
 ## 2b. Family Pointer — the Aligned Protocol [protocol-mirror]
 
-This vault is one of five family repositories that execute the same epistemic protocol:
+This vault is one of six family repositories that execute the same epistemic protocol:
 
 | Repository | Role in the family | Version | Concept DOI (always latest version) |
 |---|---|---|---|
@@ -73,6 +73,7 @@ This vault is one of five family repositories that execute the same epistemic pr
 | SPUMA-VACUI | the vacuum-foam narrative; its K1 noise correction is the "real-tension" pattern the invariance-residue test re-confirmed | v0.4.10 | [10.5281/zenodo.23006052](https://doi.org/10.5281/zenodo.23006052) |
 | LIMEN-VACUI | the pre-boundary narrative; **canonical home of the Aligned Protocol** (`08_Protocol/Aligned-Protocol`) | v0.12.3 | [10.5281/zenodo.23006050](https://doi.org/10.5281/zenodo.23006050) |
 | CRG-Flux | the cross-scale flexoelectric→cosmological vault; the family's laboratory-physics bridge; source of the W8 external-feeding test | v0.1.0 | — (deposit pending) |
+| VMC-QF | the quantum-microcavity narrative: manifold-free quantum substrate (finite Hilbert space per node, discrete cadence time) and a topological soliton on this vault's 5-around-1 geometry; δθ imported-and-labeled from here; its Record Vault-11 executed the exact 64-dim CPTP protocol confirming the defect-doubles-lifetime criterion (ratios 2.042/2.083 at γ=0.1) | v0.1.0 (local, GitHub remote pending) | — (deposit pending) |
 
 **The Aligned Protocol** derives six ledger norms from one generative triad — constraint (potential-maker) × silence (licensor) × event (direction-maker):
 
